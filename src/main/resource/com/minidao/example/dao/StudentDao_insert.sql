@@ -1,0 +1,1 @@
+insert into student(id, name, age, classId) values(:student.id, :student.name, :student.age, :student.classs.id)
